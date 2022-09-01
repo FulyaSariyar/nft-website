@@ -1,4 +1,4 @@
-# nft-website
+# NFT-website
 
 ### Final state of the project
  <img src="https://user-images.githubusercontent.com/15870445/187886488-e7154e38-3e0e-4ddd-85f0-e1e23431d9fa.png" />
